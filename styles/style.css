@@ -15,13 +15,13 @@ body {
   background-color: #f3f8fc;
 }
 /* header */
-/* #header{
+#header{
     display: flex;
     justify-content:space-around;
     align-items: center;
     background-color: #fff;
     margin-top: 50px;
-} */
+}
 nav ul li {
     display: inline-block;
 }
